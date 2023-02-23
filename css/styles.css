@@ -3,7 +3,7 @@
         text-align: center;
       }
       body { 
-        background-image: url("./steak.jpg"); 
+        background-image: url("../images/steak.jpg"); 
       }
     
       .menu {
@@ -50,6 +50,6 @@
         padding-left: 40;
         margin-bottom: -200;
         font-size: 20;
-        padding-top: 40z
+        padding-top: 40;
       }
     </style>
