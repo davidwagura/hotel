@@ -13,7 +13,7 @@
         margin-right: auto;
         padding-left: 40;
         font-size: 20;
-        margin-top: -25;
+        margin-top: 40;
       }
       .item p {
         display: inline-block;
@@ -30,7 +30,7 @@
         padding-left: 40;
         font-size: 20;
         text-align: center;
-        margin-bottom: -200;
+        margin-bottom: -700;
       }
       .branches {
         width: 80%;
@@ -40,6 +40,7 @@
         padding-right: 40;
         font-size: 20;
         text-align: right;
+        margin-bottom: 400;
       }
       .admins{
         text-align: left;
@@ -48,8 +49,8 @@
         margin-left: auto;
         margin-right: auto;
         padding-left: 40;
-        margin-bottom: -200;
+        margin-bottom: -400;
         font-size: 20;
-        padding-top: 40z
+        padding-top: 40;
       }
     </style>
